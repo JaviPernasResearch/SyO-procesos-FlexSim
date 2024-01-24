@@ -6,6 +6,9 @@ Como actividad extra de este capítulo, se propone realizar la medición de tiem
 
 Link: https://udcgal.sharepoint.com/:u:/s/programainvestigo/EabOcRZw0_NEmiHMdhaAi2cBNmnbtm7Lg77Wgt3IJJojqw?e=9Y84GM
 
+![Imagen_App](https://github.com/JaviPernasResearch/SyO-procesos-FlexSim/blob/main/FlexSim_2022/C9/C9_Extra/Imagen_App.PNG)
+
+
 ## Descripción Aplicación App_RealProcess
 
 Dicha aplicación simula un proceso de fabricación Fuente-Cola-Procesador-Sumidero y tiene un cronómetro integrado con dos funciones:
@@ -22,14 +25,14 @@ La aplicación es compatible con Windows 10 y 11.
 
 Se plantea una actividad de clase donde el estudiante debe:
 * Plantear los KPIs del proceso de cara a analizar su rendimiento.
-* Identificar los tiempos que es necesario registrar para analizar los KPIs…
+* Identificar los tiempos que es necesario registrar para analizar los KPIs.
 * Recoger una muestra estadísticamente significativa de tiempos de cada uno de los elementos mediante la aplicación “App_RealProcess”. Para ello, tras cada registro, puede cambiar el nombre del archivo de texto generado para salvar los tiempos tomados.
 * Realizar un análisis estadístico empleando los tiempos tomados y ExperFit.
 * Simular el proceso y analizar los KPIs propuestos.
 
 ## Solución
 
-En adjunto se proporciona el archivo excel “C9_Extra_Solucion” con los tiempos y distribuciones reales introducidas en la aplicación, así como un ejemplo de solución de la actividad con FlexSim
+En adjunto se proporciona el archivo excel “C9_Extra_Solucion” con los tiempos y distribuciones reales introducidas en la aplicación, así como un ejemplo de solución de la actividad con FlexSim.
 
 ## License
 
