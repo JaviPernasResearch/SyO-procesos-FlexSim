@@ -16,12 +16,16 @@ La aplicación es compatible con Windows 10 y 11.
 
 ## Enunciado actividad
 
-De esta manera, se plantea una actividad de clase donde el estudiante debe:
+Se plantea una actividad de clase donde el estudiante debe:
 * Plantear los KPIs del proceso de cara a analizar su rendimiento.
 * Identificar los tiempos que es necesario registrar para analizar los KPIs…
 * Recoger una muestra estadísticamente significativa de tiempos de cada uno de los elementos mediante la aplicación “App_RealProcess”. Para ello, tras cada registro, puede cambiar el nombre del archivo de texto generado para salvar los tiempos tomados.
 * Realizar un análisis estadístico empleando los tiempos tomados y ExperFit.
 * Simular el proceso y analizar los KPIs propuestos.
+
+## Solución
+
+En adjunto se proporciona el archivo excel “C9_Extra_Solucion” con los tiempos y distribuciones reales introducidas en la aplicación, así como un ejemplo de solución de la actividad con FlexSim
 
 ## License
 
