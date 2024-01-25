@@ -22,7 +22,7 @@ Para acceder a los ejercicios de un capítulo específico, simplemente accede a 
 ## Requisitos 💻
 
 Antes de comenzar, se requiere: 
- * Tener instalada la versión de FlexSim 2023.0.0 o, en su defecto, la 2022.0.4
+ * Tener instalada la versión de FlexSim 2023.0.0 o, en su defecto, la 2022.0.0
  * Si tienes acceso a este repositorio, damos por sentado que has comprado el libro 😉
  
 ## Autores 🎓
