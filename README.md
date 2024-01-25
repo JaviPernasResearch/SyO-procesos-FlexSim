@@ -4,7 +4,7 @@
 
 Este es el **repositorio oficial** del libro “Simulación de Procesos con FlexSim”.
 
-![PortadaFinal_lowqual](https://github.com/JaviPernasResearch/SyO-procesos-FlexSim/assets/98108974/aa585c7d-4c44-452e-856d-f08a3cdca403)
+![Montaje_FlexSim_2](https://github.com/JaviPernasResearch/SyO-procesos-FlexSim/assets/98108974/87a6ff37-9585-4995-967d-8ccdcd3c7069)
 
 En el encontrarás todos los modelos y plantillas desarrollados en cada capítulo del libro, con _actividades extra_ explicadas en el propio repositorio.  
 
