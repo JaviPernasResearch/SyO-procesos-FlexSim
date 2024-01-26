@@ -9,7 +9,7 @@ Este es el **repositorio oficial** del libro “Simulación de Procesos con Flex
 
 En el encontrarás todos los modelos y plantillas desarrollados en cada capítulo del libro, con _actividades extra_ explicadas en el propio repositorio.  
 
-Antes de continuar, si no has comprado el libro, re recordamos que puedes hacerlo [aquí](https://libros.cc/Simulacion-y-optimizacion-de-procesos-con-FlexSim.htm?isbn=9788410066007)
+Antes de continuar, si no has comprado el libro, te recordamos que puedes hacerlo [aquí](https://libros.cc/Simulacion-y-optimizacion-de-procesos-con-FlexSim.htm?isbn=9788410066007)
 
 ## Estructura del repositorio 📑
 
@@ -24,6 +24,7 @@ Para acceder a los ejercicios de un capítulo específico, simplemente accede a 
 Antes de comenzar, se requiere: 
  * Tener instalada la versión de FlexSim 2023.0.0 o, en su defecto, la 2022.0.0
  * Si tienes acceso a este repositorio, damos por sentado que has comprado el libro 😉
+ * También necesitarás una licencia de FlexSim para algunos casos del libro, ya que superan el tamaño permitido de la versión gratuita del programa.
  
 ## Autores 🎓
 
